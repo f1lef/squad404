@@ -1,0 +1,692 @@
+{
+  "meta": {
+    "semester": "1",
+    "academicYear": "2026/2027",
+    "foreignLanguageSelection": {
+      "teacher": "доц. Винник О.Ю.",
+      "mondayRoom": "422 (фак. ін. мов)",
+      "thursdayRoom": "119б"
+    },
+    "weekTypeNote": "Для клітинок, поділених у таблиці на верхню/нижню половину, верхню частину позначено numerator, нижню — denominator."
+  },
+  "groups": [
+    {
+      "name": "ПМК-11",
+      "lessons": [
+        {
+          "day": "monday",
+          "lessonNumber": 1,
+          "start": "08:30",
+          "end": "09:50",
+          "weekType": "both",
+          "subject": "Основи кібербезпеки",
+          "type": "Лабораторна",
+          "room": "119б",
+          "teacher": "ас. Златоус С.Д.; проф. Венгерський П.С."
+        },
+        {
+          "day": "monday",
+          "lessonNumber": 2,
+          "start": "10:10",
+          "end": "11:30",
+          "weekType": "both",
+          "subject": "Іноземна мова",
+          "type": "Практична",
+          "room": "422 (фак. ін. мов)",
+          "teacher": "доц. Винник О.Ю."
+        },
+        {
+          "day": "monday",
+          "lessonNumber": 3,
+          "start": "11:50",
+          "end": "13:10",
+          "weekType": "both",
+          "subject": "Технології програмування",
+          "type": "Лекція",
+          "room": "265",
+          "teacher": "доц. Трушевський В.М."
+        },
+        {
+          "day": "monday",
+          "lessonNumber": 4,
+          "start": "13:30",
+          "end": "14:50",
+          "weekType": "numerator",
+          "subject": "Історія України. Історія української культури",
+          "type": "Лекція",
+          "room": "111",
+          "teacher": "доц. Мрака І.Б."
+        },
+        {
+          "day": "monday",
+          "lessonNumber": 4,
+          "start": "13:30",
+          "end": "14:50",
+          "weekType": "denominator",
+          "subject": "Історія України. Історія української культури",
+          "type": "Практична",
+          "room": "368",
+          "teacher": "доц. Мрака І.Б."
+        },
+        {
+          "day": "tuesday",
+          "lessonNumber": 1,
+          "start": "08:30",
+          "end": "09:50",
+          "weekType": "both",
+          "subject": "Основи кібербезпеки",
+          "type": "Лекція",
+          "room": "111",
+          "teacher": "проф. Венгерський П.С."
+        },
+        {
+          "day": "tuesday",
+          "lessonNumber": 2,
+          "start": "10:10",
+          "end": "11:30",
+          "weekType": "numerator",
+          "subject": "Основи кібербезпеки",
+          "type": "Лекція",
+          "room": "111",
+          "teacher": "проф. Венгерський П.С."
+        },
+        {
+          "day": "tuesday",
+          "lessonNumber": 2,
+          "start": "10:10",
+          "end": "11:30",
+          "weekType": "denominator",
+          "subject": "Командна робота",
+          "type": "Лекція",
+          "room": "111",
+          "teacher": "ас. Куба Н.О."
+        },
+        {
+          "day": "tuesday",
+          "lessonNumber": 3,
+          "start": "11:50",
+          "end": "13:10",
+          "weekType": "both",
+          "subject": "Командна робота",
+          "type": "Лабораторна",
+          "room": "119б",
+          "teacher": "ас. Куба Н.О.; проф. Венгерський П.С."
+        },
+        {
+          "day": "wednesday",
+          "lessonNumber": 1,
+          "start": "08:30",
+          "end": "09:50",
+          "weekType": "both",
+          "subject": "Основи кібербезпеки",
+          "type": "Лабораторна",
+          "room": "119б",
+          "teacher": "ас. Златоус С.Д.; проф. Венгерський П.С."
+        },
+        {
+          "day": "wednesday",
+          "lessonNumber": 2,
+          "start": "10:10",
+          "end": "11:30",
+          "weekType": "both",
+          "subject": "Основи математичного аналізу та застосування",
+          "type": "Лекція",
+          "room": "307 (іст. ф-т)",
+          "teacher": "доц. Христіянин А.Я."
+        },
+        {
+          "day": "wednesday",
+          "lessonNumber": 3,
+          "start": "11:50",
+          "end": "13:10",
+          "weekType": "both",
+          "subject": "Основи математичного аналізу та застосування",
+          "type": "Лабораторна",
+          "room": "367",
+          "teacher": "доц. Кудрик Т.С.; доц. Христіянин А.Я."
+        },
+        {
+          "day": "wednesday",
+          "lessonNumber": 4,
+          "start": "13:30",
+          "end": "14:50",
+          "weekType": "both",
+          "subject": "Основи кібербезпеки",
+          "type": "Лабораторна",
+          "room": "119б",
+          "teacher": "ас. Златоус С.Д.; проф. Венгерський П.С."
+        },
+        {
+          "day": "thursday",
+          "lessonNumber": 1,
+          "start": "08:30",
+          "end": "09:50",
+          "weekType": "both",
+          "subject": "Моделі та методи дискретної математики",
+          "type": "Лабораторна",
+          "room": "366",
+          "teacher": "доц. Коковська Я.В.; доц. Позднякова І.В."
+        },
+        {
+          "day": "thursday",
+          "lessonNumber": 2,
+          "start": "10:10",
+          "end": "11:30",
+          "weekType": "both",
+          "subject": "Іноземна мова",
+          "type": "Практична",
+          "room": "119б",
+          "teacher": "доц. Винник О.Ю."
+        },
+        {
+          "day": "thursday",
+          "lessonNumber": 3,
+          "start": "11:50",
+          "end": "13:10",
+          "weekType": "both",
+          "subject": "Моделі та методи дискретної математики",
+          "type": "Лекція",
+          "room": "111",
+          "teacher": "проф. Щербина Ю.М."
+        },
+        {
+          "day": "thursday",
+          "lessonNumber": 4,
+          "start": "13:30",
+          "end": "14:50",
+          "weekType": "both",
+          "subject": "Технології програмування",
+          "type": "Лабораторна",
+          "room": "119а",
+          "teacher": "Бакай Г.Я.; ас. Терлецький О.І."
+        },
+        {
+          "day": "friday",
+          "lessonNumber": 1,
+          "start": "08:30",
+          "end": "09:50",
+          "weekType": "both",
+          "subject": "Навчальна практика та командні проекти",
+          "type": "Практична",
+          "room": "119а",
+          "teacher": "ас. Бакай Г.Я."
+        },
+        {
+          "day": "friday",
+          "lessonNumber": 2,
+          "start": "10:10",
+          "end": "11:30",
+          "weekType": "both",
+          "subject": "Основи національного спротиву",
+          "type": "Лекція",
+          "room": "439",
+          "teacher": null,
+          "startsFrom": "2026-09-28"
+        },
+        {
+          "day": "friday",
+          "lessonNumber": 3,
+          "start": "11:50",
+          "end": "13:10",
+          "weekType": "both",
+          "subject": "Навчальна практика та командні проекти",
+          "type": "Практична",
+          "room": "119а",
+          "teacher": "ас. Бакай Г.Я."
+        }
+      ]
+    },
+    {
+      "name": "ПМК-12",
+      "lessons": [
+        {
+          "day": "monday",
+          "lessonNumber": 1,
+          "start": "08:30",
+          "end": "09:50",
+          "weekType": "both",
+          "subject": "Технології програмування",
+          "type": "Лабораторна",
+          "room": "119а",
+          "teacher": "ас. Бакай Г.Я.; ас. Грицишин О.О."
+        },
+        {
+          "day": "monday",
+          "lessonNumber": 2,
+          "start": "10:10",
+          "end": "11:30",
+          "weekType": "both",
+          "subject": "Іноземна мова",
+          "type": "Практична",
+          "room": "422 (фак. ін. мов)",
+          "teacher": "доц. Винник О.Ю."
+        },
+        {
+          "day": "monday",
+          "lessonNumber": 3,
+          "start": "11:50",
+          "end": "13:10",
+          "weekType": "both",
+          "subject": "Технології програмування",
+          "type": "Лекція",
+          "room": "265",
+          "teacher": "доц. Трушевський В.М."
+        },
+        {
+          "day": "monday",
+          "lessonNumber": 4,
+          "start": "13:30",
+          "end": "14:50",
+          "weekType": "numerator",
+          "subject": "Історія України. Історія української культури",
+          "type": "Лекція",
+          "room": "111",
+          "teacher": "доц. Мрака І.Б."
+        },
+        {
+          "day": "monday",
+          "lessonNumber": 4,
+          "start": "13:30",
+          "end": "14:50",
+          "weekType": "denominator",
+          "subject": "Історія України. Історія української культури",
+          "type": "Практична",
+          "room": "272/3",
+          "teacher": "ас. Босак В.В."
+        },
+        {
+          "day": "tuesday",
+          "lessonNumber": 1,
+          "start": "08:30",
+          "end": "09:50",
+          "weekType": "both",
+          "subject": "Основи кібербезпеки",
+          "type": "Лекція",
+          "room": "111",
+          "teacher": "проф. Венгерський П.С."
+        },
+        {
+          "day": "tuesday",
+          "lessonNumber": 2,
+          "start": "10:10",
+          "end": "11:30",
+          "weekType": "numerator",
+          "subject": "Основи кібербезпеки",
+          "type": "Лекція",
+          "room": "111",
+          "teacher": "проф. Венгерський П.С."
+        },
+        {
+          "day": "tuesday",
+          "lessonNumber": 2,
+          "start": "10:10",
+          "end": "11:30",
+          "weekType": "denominator",
+          "subject": "Командна робота",
+          "type": "Лекція",
+          "room": "111",
+          "teacher": "ас. Куба Н.О."
+        },
+        {
+          "day": "tuesday",
+          "lessonNumber": 3,
+          "start": "11:50",
+          "end": "13:10",
+          "weekType": "numerator",
+          "subject": "Основи кібербезпеки",
+          "type": "Лабораторна",
+          "room": "119а",
+          "teacher": "ас. Лесик В.Ю.; ас. Златоус С.Д."
+        },
+        {
+          "day": "tuesday",
+          "lessonNumber": 3,
+          "start": "11:50",
+          "end": "13:10",
+          "weekType": "denominator",
+          "subject": "Командна робота",
+          "type": "Лабораторна",
+          "room": "119б",
+          "teacher": "ас. Куба Н.О.; проф. Венгерський П.С."
+        },
+        {
+          "day": "wednesday",
+          "lessonNumber": 1,
+          "start": "08:30",
+          "end": "09:50",
+          "weekType": "both",
+          "subject": "Моделі та методи дискретної математики",
+          "type": "Лабораторна",
+          "room": "368",
+          "teacher": "доц. Коковська Я.В.; доц. Позднякова І.В."
+        },
+        {
+          "day": "wednesday",
+          "lessonNumber": 2,
+          "start": "10:10",
+          "end": "11:30",
+          "weekType": "both",
+          "subject": "Основи математичного аналізу та застосування",
+          "type": "Лекція",
+          "room": "307 (іст. ф-т)",
+          "teacher": "доц. Христіянин А.Я."
+        },
+        {
+          "day": "thursday",
+          "lessonNumber": 1,
+          "start": "08:30",
+          "end": "09:50",
+          "weekType": "both",
+          "subject": "Навчальна практика та командні проекти",
+          "type": "Практична",
+          "room": "119а",
+          "teacher": "ас. Бакай Г.Я."
+        },
+        {
+          "day": "thursday",
+          "lessonNumber": 2,
+          "start": "10:10",
+          "end": "11:30",
+          "weekType": "both",
+          "subject": "Іноземна мова",
+          "type": "Практична",
+          "room": "119б",
+          "teacher": "доц. Винник О.Ю."
+        },
+        {
+          "day": "thursday",
+          "lessonNumber": 3,
+          "start": "11:50",
+          "end": "13:10",
+          "weekType": "both",
+          "subject": "Моделі та методи дискретної математики",
+          "type": "Лекція",
+          "room": "111",
+          "teacher": "проф. Щербина Ю.М."
+        },
+        {
+          "day": "thursday",
+          "lessonNumber": 4,
+          "start": "13:30",
+          "end": "14:50",
+          "weekType": "both",
+          "subject": "Основи кібербезпеки",
+          "type": "Лабораторна",
+          "room": "119б",
+          "teacher": "ас. Лесик В.Ю.; ас. Златоус С.Д."
+        },
+        {
+          "day": "friday",
+          "lessonNumber": 1,
+          "start": "08:30",
+          "end": "09:50",
+          "weekType": "both",
+          "subject": "Основи кібербезпеки",
+          "type": "Лабораторна",
+          "room": "119б",
+          "teacher": "ас. Лесик В.Ю.; ас. Златоус С.Д."
+        },
+        {
+          "day": "friday",
+          "lessonNumber": 2,
+          "start": "10:10",
+          "end": "11:30",
+          "weekType": "both",
+          "subject": "Основи національного спротиву",
+          "type": "Лекція",
+          "room": "439",
+          "teacher": null,
+          "startsFrom": "2026-09-28"
+        },
+        {
+          "day": "friday",
+          "lessonNumber": 3,
+          "start": "11:50",
+          "end": "13:10",
+          "weekType": "both",
+          "subject": "Основи математичного аналізу та застосування",
+          "type": "Лабораторна",
+          "room": "368",
+          "teacher": "доц. Кудрик Т.С.; доц. Христіянин А.Я."
+        },
+        {
+          "day": "friday",
+          "lessonNumber": 4,
+          "start": "13:30",
+          "end": "14:50",
+          "weekType": "both",
+          "subject": "Навчальна практика та командні проекти",
+          "type": "Практична",
+          "room": "119а",
+          "teacher": "ас. Бакай Г.Я."
+        }
+      ]
+    },
+    {
+      "name": "ПМК-13",
+      "lessons": [
+        {
+          "day": "monday",
+          "lessonNumber": 1,
+          "start": "08:30",
+          "end": "09:50",
+          "weekType": "both",
+          "subject": "Моделі та методи дискретної математики",
+          "type": "Лабораторна",
+          "room": "368",
+          "teacher": "доц. Коковська Я.В.; доц. Позднякова І.В."
+        },
+        {
+          "day": "monday",
+          "lessonNumber": 2,
+          "start": "10:10",
+          "end": "11:30",
+          "weekType": "both",
+          "subject": "Іноземна мова",
+          "type": "Практична",
+          "room": "422 (фак. ін. мов)",
+          "teacher": "доц. Винник О.Ю."
+        },
+        {
+          "day": "monday",
+          "lessonNumber": 3,
+          "start": "11:50",
+          "end": "13:10",
+          "weekType": "both",
+          "subject": "Технології програмування",
+          "type": "Лекція",
+          "room": "265",
+          "teacher": "доц. Трушевський В.М."
+        },
+        {
+          "day": "monday",
+          "lessonNumber": 4,
+          "start": "13:30",
+          "end": "14:50",
+          "weekType": "numerator",
+          "subject": "Історія України. Історія української культури",
+          "type": "Лекція",
+          "room": "111",
+          "teacher": "доц. Мрака І.Б."
+        },
+        {
+          "day": "monday",
+          "lessonNumber": 4,
+          "start": "13:30",
+          "end": "14:50",
+          "weekType": "denominator",
+          "subject": "Історія України. Історія української культури",
+          "type": "Практична",
+          "room": "365",
+          "teacher": "доц. Середяк А.В."
+        },
+        {
+          "day": "tuesday",
+          "lessonNumber": 1,
+          "start": "08:30",
+          "end": "09:50",
+          "weekType": "both",
+          "subject": "Основи кібербезпеки",
+          "type": "Лекція",
+          "room": "111",
+          "teacher": "проф. Венгерський П.С."
+        },
+        {
+          "day": "tuesday",
+          "lessonNumber": 2,
+          "start": "10:10",
+          "end": "11:30",
+          "weekType": "numerator",
+          "subject": "Основи кібербезпеки",
+          "type": "Лекція",
+          "room": "111",
+          "teacher": "проф. Венгерський П.С."
+        },
+        {
+          "day": "tuesday",
+          "lessonNumber": 2,
+          "start": "10:10",
+          "end": "11:30",
+          "weekType": "denominator",
+          "subject": "Командна робота",
+          "type": "Лекція",
+          "room": "111",
+          "teacher": "ас. Куба Н.О."
+        },
+        {
+          "day": "tuesday",
+          "lessonNumber": 3,
+          "start": "11:50",
+          "end": "13:10",
+          "weekType": "both",
+          "subject": "Навчальна практика та командні проекти",
+          "type": "Практична",
+          "room": "112",
+          "teacher": "ас. Бакай Г.Я."
+        },
+        {
+          "day": "tuesday",
+          "lessonNumber": 4,
+          "start": "13:30",
+          "end": "14:50",
+          "weekType": "numerator",
+          "subject": "Командна робота",
+          "type": "Лабораторна",
+          "room": "119б",
+          "teacher": "ас. Куба Н.О.; проф. Венгерський П.С."
+        },
+        {
+          "day": "tuesday",
+          "lessonNumber": 4,
+          "start": "13:30",
+          "end": "14:50",
+          "weekType": "denominator",
+          "subject": "Основи кібербезпеки",
+          "type": "Лабораторна",
+          "room": "119б",
+          "teacher": "ас. Лесик В.Ю.; проф. Венгерський П.С."
+        },
+        {
+          "day": "wednesday",
+          "lessonNumber": 1,
+          "start": "08:30",
+          "end": "09:50",
+          "weekType": "both",
+          "subject": "Навчальна практика та командні проекти",
+          "type": "Практична",
+          "room": "112",
+          "teacher": "ас. Бакай Г.Я."
+        },
+        {
+          "day": "wednesday",
+          "lessonNumber": 2,
+          "start": "10:10",
+          "end": "11:30",
+          "weekType": "both",
+          "subject": "Основи математичного аналізу та застосування",
+          "type": "Лекція",
+          "room": "307 (іст. ф-т)",
+          "teacher": "доц. Христіянин А.Я."
+        },
+        {
+          "day": "wednesday",
+          "lessonNumber": 3,
+          "start": "11:50",
+          "end": "13:10",
+          "weekType": "both",
+          "subject": "Основи кібербезпеки",
+          "type": "Лабораторна",
+          "room": "119б",
+          "teacher": "ас. Лесик В.Ю.; проф. Венгерський П.С."
+        },
+        {
+          "day": "thursday",
+          "lessonNumber": 1,
+          "start": "08:30",
+          "end": "09:50",
+          "weekType": "both",
+          "subject": "Технології програмування",
+          "type": "Лабораторна",
+          "room": "119б",
+          "teacher": "ас. Грицишин О.О.; ас. Терлецький О.І."
+        },
+        {
+          "day": "thursday",
+          "lessonNumber": 2,
+          "start": "10:10",
+          "end": "11:30",
+          "weekType": "both",
+          "subject": "Іноземна мова",
+          "type": "Практична",
+          "room": "119б",
+          "teacher": "доц. Винник О.Ю."
+        },
+        {
+          "day": "thursday",
+          "lessonNumber": 3,
+          "start": "11:50",
+          "end": "13:10",
+          "weekType": "both",
+          "subject": "Моделі та методи дискретної математики",
+          "type": "Лекція",
+          "room": "111",
+          "teacher": "проф. Щербина Ю.М."
+        },
+        {
+          "day": "thursday",
+          "lessonNumber": 4,
+          "start": "13:30",
+          "end": "14:50",
+          "weekType": "both",
+          "subject": "Основи математичного аналізу та застосування",
+          "type": "Лабораторна",
+          "room": "145",
+          "teacher": "доц. Трухан Ю.С.; доц. Сущик Н.С."
+        },
+        {
+          "day": "friday",
+          "lessonNumber": 2,
+          "start": "10:10",
+          "end": "11:30",
+          "weekType": "both",
+          "subject": "Основи національного спротиву",
+          "type": "Лекція",
+          "room": "439",
+          "teacher": null,
+          "startsFrom": "2026-09-28"
+        },
+        {
+          "day": "friday",
+          "lessonNumber": 3,
+          "start": "11:50",
+          "end": "13:10",
+          "weekType": "both",
+          "subject": "Основи кібербезпеки",
+          "type": "Лабораторна",
+          "room": "119б",
+          "teacher": "ас. Лесик В.Ю.; проф. Венгерський П.С."
+        }
+      ]
+    }
+  ]
+}
